@@ -1,0 +1,20 @@
+{
+  "name": "A-V O2 Difference Calculator",
+  "short_name": "A-VO2 Calc",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#245a78",
+  "background_color": "#f3f6f8",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
